@@ -1,3 +1,11 @@
+# File Dir
+/src
+/*.java
+/*.properties
+/*.fxml
+/*.xml
+/*.css
+
 # Compiled class file
 *.class
 
